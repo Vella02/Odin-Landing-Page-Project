@@ -1,0 +1,276 @@
+.first{
+    background: #1f2937;
+    height: 200px;
+   /* display: flex;*/
+   /* align-items: center;*/
+}
+
+.second-section{
+    height: 200px;
+}
+
+.quote-section{
+    height: 200px;
+    background: #e5e7eb;
+}
+
+.sign-up-section{
+    height:200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header{
+    color:white;
+}
+
+.second-header{
+    display: flex;
+    justify-content: center;
+}
+
+.header-row{
+    display: flex;
+ justify-content: center;
+}
+
+.logo{
+   width: 250px;
+   height: 35px;
+   color:white;
+   display: flex;
+   /*justify-content: center;*/
+   align-items:center;
+  margin-right: 100px;
+  margin-left: -70px;
+  
+}
+
+.link-one{
+    margin-right:15px;
+    height: 25px;
+    font-size: 10px;
+    color: grey;
+    display: flex;
+    align-items: flex-end;
+}
+
+.link-two{
+    margin-right:15px;
+    height: 25px;
+    font-size: 10px;
+    color: grey;
+    display: flex;
+    align-items: flex-end;
+}
+
+.link-three{
+    height: 25px;
+    font-size: 10px;
+    color: grey;
+    display: flex;
+    align-items:flex-end;
+    
+}
+
+
+
+.bulk-boxes{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.first-text{
+    
+    width: 250px;
+    margin-left: 265px;
+    height: 100px;
+    margin-top: 25px;
+    
+  /*  margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 40px;
+    margin-bottom: 40px;*/
+    
+}
+  
+.first-image{
+    width: 300px;
+    margin-right: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    color: white;
+    font-size: 12px;
+    margin-top: 25px;
+}
+
+.description-one{
+    font-size: 10px;
+    color: white;
+}
+
+.middle-boxes{
+    display: flex;
+    justify-content: Center;
+}
+
+.middle-box-one{
+    Margin-left: 25px;
+    Margin-right: 25px;
+    border: solid rgb(0, 136, 255);
+    height:75px;
+    width: 80px;
+    border-radius: 10px;
+}
+
+.middle-box-two{
+    Margin-left: 25px;
+    Margin-right: 25px;
+    border: solid rgb(0, 136, 255);
+    height:75px;
+    width: 80px;
+    border-radius: 10px;
+}
+
+.middle-box-three{
+    Margin-left: 25px;
+    Margin-right: 25px;
+    border: solid rgb(0, 136, 255);
+    height:75px;
+    width: 80px;
+    border-radius: 10px;
+}
+
+.middle-box-four{
+    Margin-left: 25px;
+    Margin-right: 25px;
+    border: solid rgb(0, 136, 255);
+    height:75px;
+    width: 80px;
+    border-radius: 10px;
+}
+
+.under-boxes{
+    display: flex;
+    justify-content: Center;
+}
+
+.under-box-one{
+    font-size: 10px;
+    width: 90px;
+    text-align: center;
+    Margin-left: 25px;
+    Margin-right: 25px;
+}
+
+.under-box-two{
+    font-size: 10px;
+    width: 90px;
+    text-align: center;
+    Margin-left: 25px;
+    Margin-right: 25px;
+}
+
+.under-box-three{
+    font-size: 10px;
+    width: 90px;
+    text-align: center;
+    Margin-left: 25px;
+    Margin-right: 25px;
+}
+
+.under-box-four{
+    font-size: 10px;
+    width: 90px;
+    text-align: center;
+    Margin-left: 25px;
+    Margin-right: 25px;
+}
+
+.quote{
+    display: flex;
+    justify-content: center;
+}
+
+.quote-text{
+    width: 450px;
+    margin-top: 25px;
+    font-size: 20px;
+    font-style:light italic;
+    color: #1f2937
+}
+
+.quote-signoff{
+    display: flex;
+    justify-content: center;
+}
+
+.quote-signoff-text{
+    margin-left: 280px;
+    margin-top: -50px;
+    font-size: 20px;
+}
+
+.thor{
+    font-style: bold;
+}
+
+.sign-up-box{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(39, 145, 237);
+    height: 100px;
+    width: 600px;
+}
+
+.sign-up-text-boxes{
+    width: 300px;
+    height: 100px;
+}
+
+.sign-up-button{
+    width: 300px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.actual-button{
+    color: white;
+    border: 1px solid white;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    
+}
+
+.call-to-action{
+    color: white;
+    width: 200px;
+    margin-left:50px;
+    margin-top: 35px;
+    text-align:justify;
+}
+
+.call-to-action-subtext{
+    font-size: 10px;
+    color: rgb(229, 222, 222);
+    width: 250px;
+    margin-left: 50px;
+   margin-top: -15px;
+}
+
+.footer{
+    height: 50px;
+    background: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
